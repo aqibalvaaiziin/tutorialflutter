@@ -52,3 +52,12 @@
 //   - children : berbeda dengan child pada widget lain, children dapat
 //     memasukkan konten lebih dari satu dalam satu level yang sama
 
+// 7. StateFull widget
+//   widget ini merupakan suatu widget yang memiliki kelebihan untuk merubah value/nilai yang ada pada widget itu sendiri\n
+//   contoh:
+//   - ada suatu nilai dari widget yang memiliki value = 1 dan anda ingin menambahkan valuenya 1 setiap menekan tombol
+//   - function yang digunakan untuk merubah value tersebut adalah
+
+
+// 8. input widget
+//   widget ini biasa digunakan untuk mediasi pengiriman data dari user untuk disimpan di tempat lain (database local,server)
